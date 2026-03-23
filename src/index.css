@@ -1,9 +1,9 @@
 @import "tailwindcss";
 
 @theme {
-  --font-branding: "Sixtyfour Convergence", sans-serif;
-  --font-heading: "Archivo", sans-serif;
-  --font-sans: "Roboto", sans-serif;
+  --font-branding: "Press Start 2P", sans-serif;
+  --font-heading: "Press Start 2P", sans-serif;
+  --font-sans: "Handjet", sans-serif;
 }
 
 body { background-color: #f3f4f6; }
