@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-branding: "Sixtyfour Convergence", sans-serif;
+  --font-heading: "Archivo", sans-serif;
+  --font-sans: "Roboto", sans-serif;
+}
+
+body { background-color: #f3f4f6; }
